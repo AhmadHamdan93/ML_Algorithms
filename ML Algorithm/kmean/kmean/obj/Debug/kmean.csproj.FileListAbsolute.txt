@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\bin\Debug\kmean.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\bin\Debug\kmean.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\bin\Debug\kmean.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\obj\Debug\kmean.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\obj\Debug\kmean.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\obj\Debug\kmean.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\obj\Debug\kmean.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\obj\Debug\kmean.pdb
+c:\Users\hamdan_pc\documents\visual studio 2013\Projects\kmean\kmean\obj\Debug\kmean.Form1.resources

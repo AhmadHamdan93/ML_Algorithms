@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\bin\Debug\Pca.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\bin\Debug\Pca.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\bin\Debug\Pca.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\obj\Debug\Pca.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\obj\Debug\Pca.Form1.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\obj\Debug\Pca.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\obj\Debug\Pca.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\obj\Debug\Pca.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pca\Pca\obj\Debug\Pca.pdb

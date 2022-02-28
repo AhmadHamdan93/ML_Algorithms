@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\bin\Debug\Lineer_Reg.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\bin\Debug\Lineer_Reg.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\bin\Debug\Lineer_Reg.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\obj\Debug\Lineer_Reg.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\obj\Debug\Lineer_Reg.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\obj\Debug\Lineer_Reg.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\obj\Debug\Lineer_Reg.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\obj\Debug\Lineer_Reg.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Lineer_Reg\Lineer_Reg\obj\Debug\Lineer_Reg.Form1.resources

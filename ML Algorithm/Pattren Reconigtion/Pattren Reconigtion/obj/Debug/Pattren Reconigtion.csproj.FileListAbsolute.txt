@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\bin\Debug\Pattren Reconigtion.exe.config
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\bin\Debug\Pattren Reconigtion.exe
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\bin\Debug\Pattren Reconigtion.pdb
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\obj\Debug\Pattren Reconigtion.csprojResolveAssemblyReference.cache
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\obj\Debug\Pattren_Reconigtion.Form1.resources
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\obj\Debug\Pattren_Reconigtion.Properties.Resources.resources
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\obj\Debug\Pattren Reconigtion.csproj.GenerateResource.Cache
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\obj\Debug\Pattren Reconigtion.exe
+C:\Users\Hamdan_pc\documents\visual studio 2013\Projects\Pattren Reconigtion\Pattren Reconigtion\obj\Debug\Pattren Reconigtion.pdb

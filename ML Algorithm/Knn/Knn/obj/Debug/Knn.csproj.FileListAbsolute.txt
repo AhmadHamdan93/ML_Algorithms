@@ -1,0 +1,9 @@
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\bin\Debug\Knn.exe.config
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\bin\Debug\Knn.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\bin\Debug\Knn.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\obj\Debug\Knn.csprojResolveAssemblyReference.cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\obj\Debug\Knn.Properties.Resources.resources
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\obj\Debug\Knn.csproj.GenerateResource.Cache
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\obj\Debug\Knn.exe
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\obj\Debug\Knn.pdb
+c:\users\hamdan_pc\documents\visual studio 2013\Projects\Knn\Knn\obj\Debug\Knn.Form1.resources
